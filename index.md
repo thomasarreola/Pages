@@ -11,7 +11,7 @@ Here is my favorite piece of code [Link Text](#here-is-my-favorite-piece-of-code
 2. This page
 3. Ignore the .gitignore file its not important
 
-#Here is a task list to help you keep track
+# Here is a task list to help you keep track
 - [x] index.md
 - [ ] README.md
 - [ ] .gitignore
