@@ -12,9 +12,9 @@ Here is my favorite piece of code [Link Text](#here-is-my-favorite-piece-of-code
 3. Ignore the .gitignore file its not important
 
 #Here is a task list to help you keep track
-- [x]index.md
-- []README.md
-- [].gitignore
+- [x] index.md
+- [ ] README.md
+- [ ] .gitignore
 
 # Welcome to My Page!
 
